@@ -32,9 +32,9 @@
         <option name="ActionButton.hoverBackground" value="3F3F3F50"/>
         <option name="ActionButton.iconTextForeground" value="727272"/>
         <option name="ActionButton.pressedBackground" value="3F3F3F"/>
-        <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_END" value="212121"/>
-        <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_START" value="212121"/>
-        <option name="BLOCK_TERMINAL_DEFAULT_BACKGROUND" value="212121"/>
+        <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_END" value="000000"/>
+        <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_START" value="000000"/>
+        <option name="BLOCK_TERMINAL_DEFAULT_BACKGROUND" value="000000"/>
         <option name="BLOCK_TERMINAL_DEFAULT_FOREGROUND" value="EEFFFF"/>
         <option name="BLOCK_TERMINAL_ERROR_BLOCK_STROKE_COLOR" value="FF5370"/>
         <option name="BLOCK_TERMINAL_INACTIVE_SELECTED_BLOCK_BACKGROUND" value="424242"/>
@@ -52,7 +52,7 @@
         <option name="BookmarkMnemonicIcon.foreground" value="FFFBF7"/>
         <option name="CARET_COLOR" value="FFCC00"/>
         <option name="CARET_ROW_COLOR" value="181818"/>
-        <option name="CONSOLE_BACKGROUND_KEY" value="121212"/>
+        <option name="CONSOLE_BACKGROUND_KEY" value="000000"/>
         <option name="DELETED_LINES_COLOR" value="F07178"/>
         <option name="DIAGRAM_ANNOTATION_EDGE" value="C792EA"/>
         <option name="DIAGRAM_COARSE_GRID" value="424242"/>
@@ -162,33 +162,33 @@
         <option name="SEPARATOR_BELOW_COLOR" value="424242"/>
         <option name="SOFT_WRAP_SIGN_COLOR" value="424242"/>
         <option name="STICKY_LINES_BACKGROUND" value="1A1A1A"/>
-        <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="FF9800"/>
-        <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="FF9800"/>
+        <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="303030"/>
+        <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="303030"/>
         <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="212121"/>
-        <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="FF9800"/>
-        <option name="ScrollBar.Mac.Transparent.thumbColor" value="FF9800"/>
+        <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="303030"/>
+        <option name="ScrollBar.Mac.Transparent.thumbColor" value="303030"/>
         <option name="ScrollBar.Mac.Transparent.trackColor" value="212121"/>
-        <option name="ScrollBar.Mac.hoverThumbBorderColor" value="FF9800"/>
-        <option name="ScrollBar.Mac.hoverThumbColor" value="FF9800"/>
+        <option name="ScrollBar.Mac.hoverThumbBorderColor" value="303030"/>
+        <option name="ScrollBar.Mac.hoverThumbColor" value="303030"/>
         <option name="ScrollBar.Mac.hoverTrackColor" value="212121"/>
-        <option name="ScrollBar.Mac.thumbBorderColor" value="FF9800"/>
-        <option name="ScrollBar.Mac.thumbColor" value="FF9800"/>
+        <option name="ScrollBar.Mac.thumbBorderColor" value="303030"/>
+        <option name="ScrollBar.Mac.thumbColor" value="303030"/>
         <option name="ScrollBar.Mac.trackColor" value="212121"/>
-        <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="FF9800"/>
-        <option name="ScrollBar.Transparent.hoverThumbColor" value="FF9800"/>
+        <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="303030"/>
+        <option name="ScrollBar.Transparent.hoverThumbColor" value="303030"/>
         <option name="ScrollBar.Transparent.hoverTrackColor" value="212121"/>
-        <option name="ScrollBar.Transparent.thumbBorderColor" value="FF9800"/>
-        <option name="ScrollBar.Transparent.thumbColor" value="FF9800"/>
+        <option name="ScrollBar.Transparent.thumbBorderColor" value="303030"/>
+        <option name="ScrollBar.Transparent.thumbColor" value="303030"/>
         <option name="ScrollBar.Transparent.trackColor" value="212121"/>
-        <option name="ScrollBar.hoverThumbBorderColor" value="FF9800"/>
-        <option name="ScrollBar.hoverThumbColor" value="FF9800"/>
+        <option name="ScrollBar.hoverThumbBorderColor" value="303030"/>
+        <option name="ScrollBar.hoverThumbColor" value="303030"/>
         <option name="ScrollBar.hoverTrackColor" value="212121"/>
-        <option name="ScrollBar.thumbBorderColor" value="FF9800"/>
-        <option name="ScrollBar.thumbColor" value="FF9800"/>
+        <option name="ScrollBar.thumbBorderColor" value="303030"/>
+        <option name="ScrollBar.thumbColor" value="303030"/>
         <option name="ScrollBar.trackColor" value="212121"/>
-        <option name="Scrollbar.Tabs.HoveredThumbColor" value="FF9800"/>
-        <option name="Scrollbar.Tabs.ThumbColor" value="FF9800C0"/>
-        <option name="Scrollbar.Tabs.TransparentThumbColor" value="FF980080"/>
+        <option name="Scrollbar.Tabs.HoveredThumbColor" value="303030"/>
+        <option name="Scrollbar.Tabs.ThumbColor" value="303030"/>
+        <option name="Scrollbar.Tabs.TransparentThumbColor" value="303030"/>
         <option name="TAB_UNDERLINE" value="FF9800"/>
         <option name="TAB_UNDERLINE_INACTIVE" value="FF9800C0"/>
         <option name="TEARLINE_COLOR" value="424242"/>
@@ -283,7 +283,7 @@
         </option>
         <option name="BLOCK_TERMINAL_COMMAND">
             <value>
-                <option name="BACKGROUND" value="2b2b2b"/>
+                <option name="BACKGROUND" value="000000"/>
             </value>
         </option>
         <option name="BNF_KEYWORD">
@@ -4003,7 +4003,7 @@
         </option>
         <option name="TAB_SELECTED_INACTIVE">
             <value>
-                <option name="FOREGROUND" value="616161"/>
+                <option name="FOREGROUND" value="ffffff"/>
             </value>
         </option>
         <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
@@ -4014,7 +4014,7 @@
         <option name="TERMINAL_CLASS_NAME_LOG_REFERENCE" baseAttributes=""/>
         <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
             <value>
-                <option name="BACKGROUND" value="2b2b2b"/>
+                <option name="BACKGROUND" value="000000"/>
             </value>
         </option>
         <option name="TEXT">
