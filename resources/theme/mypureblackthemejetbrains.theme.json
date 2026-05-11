@@ -464,6 +464,279 @@
     "FileColor.Violet": "selected",
 
     "SearchMatch.startBackground": "#4A3500",
-    "SearchMatch.endBackground": "#4A3500"
+    "SearchMatch.endBackground": "#4A3500",
+
+    "Button.background": "bg",
+    "Button.foreground": "fg",
+    "Button.startBackground": "bg",
+    "Button.endBackground": "bg",
+    "Button.hoverBackground": "bg",
+    "Button.pressedBackground": "bg",
+    "Button.disabledBackground": "bg",
+    "Button.disabledText": "disabled",
+
+    "Button.borderColor": "border2",
+    "Button.startBorderColor": "border2",
+    "Button.endBorderColor": "border2",
+    "Button.focusedBorderColor": "border2",
+    "Button.default.borderColor": "border2",
+    "Button.default.focusedBorderColor": "border2",
+
+    "Button.default.background": "bg",
+    "Button.default.startBackground": "bg",
+    "Button.default.endBackground": "bg",
+    "Button.default.foreground": "fg",
+    "Button.default.hoverBackground": "bg",
+    "Button.default.pressedBackground": "bg",
+    "Button.default.startBorderColor": "border2",
+    "Button.default.endBorderColor": "border2",
+
+    "Button.intellij.native.background": "bg",
+    "Button.intellij.native.foreground": "fg",
+    "Button.intellij.native.borderColor": "border2",
+    "Button.intellij.native.focusedBorderColor": "border2",
+
+    "OptionButton.background": "bg",
+    "OptionButton.foreground": "fg",
+    "OptionButton.hoverBackground": "bg",
+    "OptionButton.pressedBackground": "bg",
+    "OptionButton.borderColor": "border2",
+    "OptionButton.focusedBorderColor": "border2",
+
+    "ComboBoxButton.background": "bg",
+    "ComboBoxButton.foreground": "fg",
+    "ComboBoxButton.hoverBackground": "bg",
+    "ComboBoxButton.pressedBackground": "bg",
+    "ComboBoxButton.borderColor": "border2",
+
+    "ActionButton.background": "bg",
+    "ActionButton.hoverBackground": "bg",
+    "ActionButton.pressedBackground": "bg",
+    "ActionButton.selectedBackground": "bg",
+    "ActionButton.focusedBorderColor": "border2",
+    "ActionButton.iconTextForeground": "fg",
+
+    "MainToolbar.Icon.background": "bg",
+    "MainToolbar.Icon.hoverBackground": "bg",
+    "MainToolbar.Icon.pressedBackground": "bg",
+    "MainToolbar.Icon.selectedBackground": "bg",
+
+    "MainToolbar.Dropdown.background": "bg",
+    "MainToolbar.Dropdown.hoverBackground": "bg",
+    "MainToolbar.Dropdown.pressedBackground": "bg",
+    "MainToolbar.Dropdown.transparentHoverBackground": "bg",
+
+    "ToolWindow.Button.background": "bg",
+    "ToolWindow.Button.hoverBackground": "bg",
+    "ToolWindow.Button.pressedBackground": "bg",
+    "ToolWindow.Button.selectedBackground": "bg",
+    "ToolWindow.Button.selectedForeground": "fg",
+
+    "WelcomeScreen.Button.background": "bg",
+    "WelcomeScreen.Button.foreground": "fg",
+    "WelcomeScreen.Button.hoverBackground": "bg",
+    "WelcomeScreen.Button.pressedBackground": "bg",
+    "WelcomeScreen.Button.borderColor": "border2",
+
+    "WelcomeScreen.SecondaryButton.background": "bg",
+    "WelcomeScreen.SecondaryButton.foreground": "fg",
+    "WelcomeScreen.SecondaryButton.hoverBackground": "bg",
+    "WelcomeScreen.SecondaryButton.pressedBackground": "bg",
+    "WelcomeScreen.SecondaryButton.borderColor": "border2",
+
+    "SearchEverywhere.Header.Button.background": "bg",
+    "SearchEverywhere.Header.Button.hoverBackground": "bg",
+    "SearchEverywhere.Header.Button.pressedBackground": "bg",
+
+    "Notification.MoreButton.background": "bg",
+    "Notification.MoreButton.foreground": "fg",
+    "Notification.MoreButton.hoverBackground": "bg",
+    "Notification.MoreButton.pressedBackground": "bg",
+    "Notification.MoreButton.innerBorderColor": "border2",
+    "Notification.MoreButton.outerBorderColor": "border2",
+
+    "GotItTooltip.Button.background": "bg",
+    "GotItTooltip.Button.foreground": "fg",
+    "GotItTooltip.Button.hoverBackground": "bg",
+    "GotItTooltip.Button.pressedBackground": "bg",
+    "GotItTooltip.Button.borderColor": "border2",
+
+    "RunWidget.background": "bg",
+    "RunWidget.hoverBackground": "bg",
+    "RunWidget.pressedBackground": "bg",
+    "RunWidget.runningBackground": "bg",
+
+    "Focus.color": "border2",
+    "Focus.defaultButtonBorderColor": "border2",
+    "Focus.defaultButtonInnerBorderColor": "border2",
+    "Focus.defaultButtonOuterBorderColor": "border2",
+
+    "Link.activeForeground": "accent",
+    "Link.hoverForeground": "accent2",
+    "Link.pressedForeground": "accent",
+    "Link.visitedForeground": "accent",
+
+    "Component.linkForeground": "accent",
+    "Component.linkColor": "accent",
+    "Component.infoForeground": "fg2",
+    "Component.accentColor": "accent",
+
+    "Hyperlink.foreground": "accent",
+    "Hyperlink.linkColor": "accent",
+    "Hyperlink.visitedColor": "accent",
+    "Hyperlink.hoverColor": "accent2",
+    "Hyperlink.pressedColor": "accent",
+
+    "Link.Foreground": "accent",
+    "Link.ActiveForeground": "accent",
+    "Link.HoverForeground": "accent2",
+    "Link.PressedForeground": "accent",
+    "Link.VisitedForeground": "accent",
+
+    "Label.linkForeground": "accent",
+    "Label.linkColor": "accent",
+    "Label.infoForeground": "fg2",
+
+    "SearchEverywhere.Link.foreground": "accent",
+    "SearchEverywhere.Advertiser.foreground": "fg3",
+
+    "Plugins.Link.foreground": "accent",
+    "Plugins.Link.hoverForeground": "accent2",
+    "Plugins.Link.pressedForeground": "accent",
+
+    "Plugins.tagBackground": "#1A1A1A",
+    "Plugins.tagForeground": "#FFFFFF",
+    "Plugins.Tag.background": "#1A1A1A",
+    "Plugins.Tag.foreground": "#FFFFFF",
+    "Plugins.tag.borderColor": "#2A2A2A",
+    "Plugins.Tag.borderColor": "#2A2A2A",
+
+    "Plugins.paidTagBackground": "#1A1A1A",
+    "Plugins.paidTagForeground": "#FFFFFF",
+    "Plugins.PaidTag.background": "#1A1A1A",
+    "Plugins.PaidTag.foreground": "#FFFFFF",
+
+    "Plugins.freemiumTagBackground": "#1A1A1A",
+    "Plugins.freemiumTagForeground": "#FFFFFF",
+    "Plugins.FreemiumTag.background": "#1A1A1A",
+    "Plugins.FreemiumTag.foreground": "#FFFFFF",
+
+    "Plugins.purchasedTagBackground": "#1A1A1A",
+    "Plugins.purchasedTagForeground": "#FFFFFF",
+    "Plugins.PurchasedTag.background": "#1A1A1A",
+    "Plugins.PurchasedTag.foreground": "#FFFFFF",
+
+    "Plugins.eapTagBackground": "#1A1A1A",
+    "Plugins.eapTagForeground": "#FFFFFF",
+    "Plugins.EapTag.background": "#1A1A1A",
+    "Plugins.EapTag.foreground": "#FFFFFF",
+
+    "Tag.background": "#1A1A1A",
+    "Tag.foreground": "#FFFFFF",
+    "Tag.borderColor": "#2A2A2A",
+
+    "TagComponent.background": "#1A1A1A",
+    "TagComponent.foreground": "#FFFFFF",
+    "TagComponent.borderColor": "#2A2A2A",
+
+    "Button.borderColor": "buttonBorder",
+    "Button.startBorderColor": "buttonBorder",
+    "Button.endBorderColor": "buttonBorder",
+    "Button.focusedBorderColor": "buttonBorder",
+
+    "Button.default.borderColor": "buttonBorder",
+    "Button.default.startBorderColor": "buttonBorder",
+    "Button.default.endBorderColor": "buttonBorder",
+    "Button.default.focusedBorderColor": "buttonBorder",
+
+    "Button.default.startBackground": "bg",
+    "Button.default.endBackground": "bg",
+    "Button.default.background": "bg",
+    "Button.default.foreground": "fg",
+
+    "Button.intellij.native.borderColor": "buttonBorder",
+    "Button.intellij.native.focusedBorderColor": "buttonBorder",
+
+    "OptionButton.borderColor": "buttonBorder",
+    "OptionButton.focusedBorderColor": "buttonBorder",
+
+    "Component.focusColor": "buttonBorder",
+    "Component.focusedBorderColor": "buttonBorder",
+
+    "Focus.color": "buttonBorder",
+    "Focus.defaultButtonBorderColor": "buttonBorder",
+    "Focus.defaultButtonInnerBorderColor": "buttonBorder",
+    "Focus.defaultButtonOuterBorderColor": "buttonBorder",
+
+    "Button.focus": "buttonBorder",
+    "Button.default.focus": "buttonBorder",
+
+    "OptionPane.background": "bg",
+    "OptionPane.foreground": "fg",
+
+    "DialogWrapper.southPanelBackground": "bg",
+    "DialogWrapper.centerPanelBackground": "bg",
+    "DialogWrapper.borderColor": "border",
+
+    "Window.headerBackground": "bg",
+    "Window.inactiveHeaderBackground": "bg",
+    "Window.headerForeground": "fg",
+    "Window.inactiveHeaderForeground": "fg",
+
+    "TitlePane.background": "bg",
+    "TitlePane.inactiveBackground": "bg",
+    "TitlePane.foreground": "fg",
+    "TitlePane.inactiveForeground": "fg",
+
+    "IdeFrame.background": "bg",
+    "IdeFrame.Header.background": "bg",
+    "IdeFrame.Header.inactiveBackground": "bg",
+    "IdeFrame.Header.foreground": "fg",
+    "IdeFrame.Header.inactiveForeground": "fg",
+
+    "MainToolbar.background": "bg",
+    "MainToolbar.inactiveBackground": "bg",
+    "MainToolbar.borderColor": "border",
+
+    "HeaderColor": "bg",
+    "Panel.background": "bg",
+    "RootPane.background": "bg",
+
+    "EditorTabs.foreground": "fg",
+    "EditorTabs.selectedForeground": "fg",
+    "EditorTabs.inactiveForeground": "fg",
+    "EditorTabs.selectedInactiveForeground": "fg",
+    "EditorTabs.hoverForeground": "fg",
+    "EditorTabs.hoverInactiveForeground": "fg",
+    "EditorTabs.hoverSelectedForeground": "fg",
+    "EditorTabs.hoverSelectedInactiveForeground": "fg",
+    "EditorTabs.underlinedTabForeground": "fg",
+    "EditorTabs.underlinedTabInactiveForeground": "fg",
+
+    "DefaultTabs.foreground": "fg",
+    "DefaultTabs.selectedForeground": "fg",
+    "DefaultTabs.inactiveForeground": "fg",
+    "DefaultTabs.selectedInactiveForeground": "fg",
+    "DefaultTabs.hoverForeground": "fg",
+    "DefaultTabs.hoverInactiveForeground": "fg",
+    "DefaultTabs.hoverSelectedForeground": "fg",
+    "DefaultTabs.hoverSelectedInactiveForeground": "fg",
+    "DefaultTabs.underlinedTabForeground": "fg",
+    "DefaultTabs.underlinedTabInactiveForeground": "fg",
+
+    "TabbedPane.foreground": "fg",
+    "TabbedPane.selectedForeground": "fg",
+    "TabbedPane.disabledForeground": "fg3",
+    "TabbedPane.inactiveForeground": "fg",
+    "TabbedPane.hoverForeground": "fg",
+
+    "ToolWindow.HeaderTab.foreground": "fg",
+    "ToolWindow.HeaderTab.selectedForeground": "fg",
+    "ToolWindow.HeaderTab.inactiveForeground": "fg",
+    "ToolWindow.HeaderTab.selectedInactiveForeground": "fg",
+    "ToolWindow.HeaderTab.hoverForeground": "fg",
+    "ToolWindow.HeaderTab.hoverInactiveForeground": "fg",
+    "ToolWindow.HeaderTab.underlinedTabForeground": "fg",
+    "ToolWindow.HeaderTab.underlinedTabInactiveForeground": "fg"
   }
 }
