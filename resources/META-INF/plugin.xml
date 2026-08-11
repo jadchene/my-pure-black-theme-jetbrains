@@ -1,16 +1,16 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
-    <id>my-pure-black-theme-jetbrains</id>
-    <version>1.0.0</version>
+    <id>abyss-theme-for-jetbrains</id>
+    <version>1.0.1</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/best-practices-for-listing.html#plugin-name -->
-    <name>My-pure-black-theme-jetbrains</name>
+    <name>Abyss Theme for JetBrains</name>
     <category>UI</category>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor url="https://www.yourcompany.com">YourCompany</vendor>
+    <vendor url="https://github.com/jadchene/abyss-theme-for-jetbrains">chenjd</vendor>
 
     <idea-version since-build="251"/>
 
@@ -24,7 +24,8 @@
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
-        Initial release of the theme.
+        Renamed the plugin and bundled theme to Abyss Theme for JetBrains.<br>
+        Updated the vendor, documentation, and theme resource naming.
     ]]></change-notes>
 
     <!-- Product and plugin compatibility requirements.
@@ -34,6 +35,6 @@
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider
                 id="54339216-2f26-4488-ba6e-28637b7c195e"
-                path="/theme/mypureblackthemejetbrains.theme.json"/>
+                path="/theme/abyss-theme.theme.json"/>
     </extensions>
 </idea-plugin>

@@ -1,8 +1,8 @@
 {
-  "name": "My-pure-black-theme-jetbrains",
+  "name": "Abyss Theme for JetBrains",
   "author": "chenjd",
   "dark": true,
-  "editorScheme": "/theme/my-theme.xml",
+  "editorScheme": "/theme/abyss-editor.xml",
   "colors": {
     "bg": "#101010",
     "bg2": "#0F0F0F",
