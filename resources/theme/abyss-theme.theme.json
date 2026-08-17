@@ -197,6 +197,9 @@
     "CheckBox.background": "bg",
     "CheckBox.foreground": "fg",
     "CheckBox.disabledText": "disabled",
+    "CheckBox.borderInsets": "4,4,4,4",
+    "CheckBox.iconSize": 24,
+    "CheckBox.textIconGap": 4,
     "CheckBox.icon.background": "#000000",
     "CheckBox.icon.borderColor": "#FFFFFF",
     "CheckBox.icon.focusedBorderColor": "#FFFFFF",
@@ -469,5 +472,16 @@
     "TabbedPane.selectedForeground": "fg",
     "TabbedPane.selectedInactiveForeground": "fg",
     "TabbedPane.disabledForeground": "fg3"
+  },
+  "icons": {
+    "/com/intellij/ide/ui/laf/icons/darcula/checkBox.svg": "/theme/icons/checkBox.svg",
+    "/com/intellij/ide/ui/laf/icons/darcula/checkBoxDisabled.svg": "/theme/icons/checkBoxDisabled.svg",
+    "/com/intellij/ide/ui/laf/icons/darcula/checkBoxFocused.svg": "/theme/icons/checkBoxFocused.svg",
+    "/com/intellij/ide/ui/laf/icons/darcula/checkBoxIndeterminateSelected.svg": "/theme/icons/checkBoxIndeterminateSelected.svg",
+    "/com/intellij/ide/ui/laf/icons/darcula/checkBoxIndeterminateSelectedDisabled.svg": "/theme/icons/checkBoxIndeterminateSelectedDisabled.svg",
+    "/com/intellij/ide/ui/laf/icons/darcula/checkBoxIndeterminateSelectedFocused.svg": "/theme/icons/checkBoxIndeterminateSelectedFocused.svg",
+    "/com/intellij/ide/ui/laf/icons/darcula/checkBoxSelected.svg": "/theme/icons/checkBoxSelected.svg",
+    "/com/intellij/ide/ui/laf/icons/darcula/checkBoxSelectedDisabled.svg": "/theme/icons/checkBoxSelectedDisabled.svg",
+    "/com/intellij/ide/ui/laf/icons/darcula/checkBoxSelectedFocused.svg": "/theme/icons/checkBoxSelectedFocused.svg"
   }
 }
